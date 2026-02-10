@@ -28,7 +28,7 @@ DEBUG = True
 
 
 
-ALLOWED_HOSTS = ['hicheel2_lab2-3.onrender.com']
+ALLOWED_HOSTS = ['hicheel2_lab2-3s.onrender.com']
 
 
 # Application definition
