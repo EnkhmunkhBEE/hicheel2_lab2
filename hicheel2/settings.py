@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ed5inght7r58y0qno4tww&4^=@b5%ld^axgy_%ut8phk!g*f!k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://hicheel2-lab2-2.onrender.com']
 
 
 # Application definition
@@ -119,7 +119,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-ALLOWED_HOSTS = ['lab2_client.onrender.com']
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
